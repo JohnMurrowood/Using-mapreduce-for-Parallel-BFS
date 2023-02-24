@@ -4,12 +4,12 @@ This is a mapreduce program done in python to perform a parallel Breadth-First-S
 
 Files:
 
-graph.txt: contains and example graph.
-distance.txt: contains and example of the distance of every node from the source.
-mapper.py: Python code for mapper
-reducer.py: Python code for reducer
-reader.py: python code to check for termination condition for while loop in run.sh
-run.sh: File used to run code in hadoop
-hadoop-streaming-3.1.4.jar: hadoop streaming file
+- graph.txt: contains and example graph.
+- distance.txt: contains and example of the distance of every node from the source.
+- mapper.py: Python code for mapper
+- reducer.py: Python code for reducer
+- reader.py: python code to check for termination condition for while loop in run.sh
+- run.sh: File used to run code in hadoop
+- hadoop-streaming-3.1.4.jar: hadoop streaming file
 
 
